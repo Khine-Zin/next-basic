@@ -1,0 +1,8 @@
+{
+  "/(components)/(auth)/register/page": "app/(components)/(auth)/register/page.js",
+  "/dashboard/data/page": "app/dashboard/data/page.js",
+  "/dashboard/profile/page": "app/dashboard/profile/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
+  "/(components)/services/page": "app/(components)/services/page.js",
+  "/(components)/services/[id]/page": "app/(components)/services/[id]/page.js"
+}
